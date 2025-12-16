@@ -1,4 +1,5 @@
 # Professional GitHub Copilot for Developers
+## _advanced topics and techniques_
 
 Instructor: Andrew Scoppa
 
