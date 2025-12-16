@@ -1,13 +1,13 @@
 # Professional GitHub Copilot for Developers
 ## _advanced topics and techniques_
 
-Instructor: Andrew Scoppa
+This repository contains resources and materials for the "Professional GitHub Copilot for Developers" course.
 
-Email: andrew.scoppa@atmosera.com
+Presented by Andrew Scoppa
 
-LinkedIn: [Andrew Scoppa](https://www.linkedin.com/in/andrewscoppa/)
+andrew.scoppa@atmosera.com
 
-This repository contains resources and materials for the "Professional GitHub Copilot for Developers" course. The course is designed to help developers effectively utilize GitHub Copilot in their development workflow.
+ [LinkedIn](https://www.linkedin.com/in/andrewscoppa/)
 
 ### OpenAI
 
