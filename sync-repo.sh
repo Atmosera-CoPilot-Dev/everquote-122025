@@ -4,16 +4,11 @@ git add .
 
 git commit -m "Synchronizing local changes with remote repository"
 
-git pull origin main
+git pull 
 
-git push origin main
+git push 
 
-# Check if the push was successful
-if [ $? -eq 0 ]; then
-    echo "Changes pushed successfully to the remote repository."
-else
-    echo "Failed to push changes to the remote repository. Please check for conflicts or errors."
-fi
+
 
 
 
