@@ -1,5 +1,5 @@
 
-## Software Development Life Cycle (SDLC)
+## Software Development Life Cycle 
 
 ```markdown
 You are a senior software engineer with extensive SDLC experience. 
